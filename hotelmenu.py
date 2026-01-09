@@ -39,3 +39,5 @@ if another_order.lower() == "yes":
         print(f"Sorry, we don't have {item_2} on the menu.")
 
 print(f"Your final order total is: Rs.{order_total}")
+
+#this code is written by me.
